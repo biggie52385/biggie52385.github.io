@@ -2,8 +2,8 @@
 ## B.S. in Computer Science
 ### A.S. in Computer Programming and Web Development
 
-[Code Review] (https://drive.google.com/file/d/1yKO9pQ8WhwlSPOjqtjQbJHyelgAWvQwX/view?usp=sharing)
-[Working With Algorithms 1 code] (https://github.com/biggie52385/biggie52385.github.io/tree/master/Algorithm1)
+# [Code Review] (https://drive.google.com/file/d/1yKO9pQ8WhwlSPOjqtjQbJHyelgAWvQwX/view?usp=sharing)
+# [Working With Algorithms 1 code] (https://github.com/biggie52385/biggie52385.github.io/tree/master/Algorithm1)
 [Working With Algorithms 2 code] (https://github.com/biggie52385/biggie52385.github.io/tree/master/alg2/src)
 [Working With software design code] (https://github.com/biggie52385/biggie52385.github.io/tree/master/medicalApplication/medicalApplication)
 [Working With Databases] (https://github.com/biggie52385/biggie52385.github.io/blob/master/Database.py)
